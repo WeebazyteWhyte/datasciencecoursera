@@ -1,2 +1,1 @@
 # datasciencecoursera
-Cousera Course
